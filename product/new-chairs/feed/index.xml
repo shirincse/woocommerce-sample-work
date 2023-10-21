@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: New Chairs	</title>
+	<atom:link href="/product/new-chairs/feed/" rel="self" type="application/rss+xml" />
+	<link>/product/new-chairs/</link>
+	<description></description>
+	<lastBuildDate>Sun, 10 Sep 2023 20:34:39 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Rose Tyler		</title>
+		<link>/product/new-chairs/#comment-15</link>
+
+		<dc:creator><![CDATA[Rose Tyler]]></dc:creator>
+		<pubDate>Tue, 08 Dec 2020 09:57:24 +0000</pubDate>
+		<guid isPermaLink="false">https://xstore.8theme.com/elementor/demos/niche-market02/?post_type=product&#038;p=1121#comment-15</guid>
+
+					<description><![CDATA[Leo elit dui adipiscing ad eleifend congue primis curabitur etiam mi scelerisque nibh habitasse consectetur sapien lacinia condimentum eget. Gravida cubilia justo lacinia scelerisque purus justo orci a vestibulum donec primis suspendisse dignissim class tortor phasellus vestibulum duis ullamcorper natoque leo cursus.]]></description>
+			<content:encoded><![CDATA[<p>Leo elit dui adipiscing ad eleifend congue primis curabitur etiam mi scelerisque nibh habitasse consectetur sapien lacinia condimentum eget. Gravida cubilia justo lacinia scelerisque purus justo orci a vestibulum donec primis suspendisse dignissim class tortor phasellus vestibulum duis ullamcorper natoque leo cursus.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
